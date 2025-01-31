@@ -1,0 +1,18 @@
+
+R
+java:S1874"0Remove this use of "signWith"; it is deprecated.(´²­úÿÿÿÿ8²ÂæÍÊ2
+K
+java:S1874(".Remove this use of "parser"; it is deprecated.(¹Ñº¹8³ÂæÍÊ2
+W
+java:S1874)"5Remove this use of "setSigningKey"; it is deprecated.(Ã¡û„ùÿÿÿÿ8³ÂæÍÊ2
+P
+java:S18747".Remove this use of "parser"; it is deprecated.(½ö‘ùÿÿÿÿ8´ÂæÍÊ2
+W
+java:S18747"5Remove this use of "setSigningKey"; it is deprecated.(½ö‘ùÿÿÿÿ8´ÂæÍÊ2
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(Éºæ±8µÂæÍÊ2
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ú×ı ÿÿÿÿÿ8µÂæÍÊ2
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÛÉ¹¾ıÿÿÿÿ8µÂæÍÊ2
+\
+java:S1874?":Remove this use of "SignatureException"; it is deprecated.(‹µ×‡øÿÿÿÿ8µÂæÍÊ2
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ˆ‰Èš8¶ÂæÍÊ2
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ÀûÏ£8¶ÂæÍÊ2
