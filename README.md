@@ -2,10 +2,12 @@
 
 Instrucciones Swagger: 
 
-1__ Primero se debe usar el endpoint /auth/login para conseguir el token de autenticación. username: test, password: 12345.
-2__ Luego se debe usar ese token en "Authorize" (Arriba a la derecha del endpoint /auth/login) para poder
+Primero se debe usar el endpoint /auth/login para conseguir el token de autenticación. username: test, password: 12345.
+
+Luego se debe usar ese token en "Authorize" (Arriba a la derecha del endpoint /auth/login) para poder
 utilizar el resto de los endpoints.
-3_ _Ya se pueden probar el resto de los endpoints.
+
+Ya se pueden probar el resto de los endpoints.
 
 Instrucciones Dockerfile: 
 
